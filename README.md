@@ -1,4 +1,5 @@
 # ForestFireSimulation
+This is an extra credit problem in my CS class. I think it's cool, so I put it up here.
 The program animated the generation of a forest from barren to burned if you set some number of spots on fire randomly.
 Each cell in the grid will be in one of five states: Barren, DryGrass, Fire,  HotFire, Burned.
 The rules for updating the generations are:
